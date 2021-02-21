@@ -1,3 +1,3 @@
-# Humble Begining:
+# Football World Cup
 
-## This is the best game in the world
+This webapi will serve historic data from the Football World Cup
