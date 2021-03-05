@@ -1,4 +1,4 @@
-FROM golang:latest
+FROM golang:latest-alpine
 
 ENV CGO_ENABLED 0
 
